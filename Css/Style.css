@@ -13,13 +13,13 @@ body {
 }
 .mycolor{
     color: #6c63ff;
-    font-weight: 700;
+    font-weight: 800;
     font-size: 24px;
 
 }
 .banner_Text{
     font-size: 40px;
-    font-weight: 700;
+    font-weight: 800;
     line-height: 1.2;
 
 }
@@ -31,7 +31,7 @@ body {
 .banner_btn{
     padding: 12px 58px;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 700;
     border: 1px solid #6c63ff;
     border-radius: 28px;
     text-decoration: none;
@@ -89,4 +89,39 @@ body {
 .product{
     box-shadow: 0px 3px 24px 3px rgb(7 7 7 / 4%);
     border-bottom: 3px solid #6c63ff;
+}
+.product_section{
+    background:rgb(243, 249, 251) ;
+}
+.product_title{
+    font-size: 24px;
+    font-weight: 700;
+}
+.feature_img{
+    margin-left: 8%;
+
+}
+.feature_icon{
+    border-radius: 50%;
+    background-color: #6c63ff;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: center;
+
+}
+.font_21{
+    font-size: 21px;
+    font-weight: 800;
+}
+.team_section{
+    background-color: #f0f6fb;
+}
+.bannner_Text2{
+    font-size: 40px;
+    font-weight: 1000;
+    line-height: 1.2;
+
 }
