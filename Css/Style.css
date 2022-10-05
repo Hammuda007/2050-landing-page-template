@@ -139,4 +139,15 @@ body {
     background-color: #f0f6fb;
 
 }
+.blog_card:hover img{
+   
+	transform: scale(1.1);
+	
+	transition: 0.3s ease-in-out;
+}
+
+
+
+
+
   
